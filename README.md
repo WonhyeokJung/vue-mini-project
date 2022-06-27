@@ -17,5 +17,5 @@
 | --------------------------------- | ---- | ---- | ---- |
 | Vue.js는 무엇인가?                | ⬜    |      ||
 | 개발환경 구성(vs code, node, npm) |      |      ||
-| [Vue CLI로 Vue 프로젝트 생성하기](note/create-vue-project-by-vue-cli.md) | ✅    |      |210706|
-| [Vue Router 설정](note/vue-router.md) | ✅ | |210707|
+| [Vue CLI로 Vue 프로젝트 생성하기](#) | ✅    |      |210706|
+| [Vue Router 설정](#) | ✅ | |210707|
